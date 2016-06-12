@@ -5,7 +5,8 @@ Smarking Challenge Project: Parking Prediction, Group 16
 # Parking Prediction (Smarking Challenge)
 
 ## Description
-This is a [micro Bittiger project](https://www.bittiger.io/microproject/jEaqRv4rurDJ6BhNm) provided by Smarking, and it's part of the application for their software engineering position. We will use the given date set to build prediction models and provide an interactive web page for users to observe predicted result, upload actural data, compare the real and predicted data, and check the accuracy.
+This is a [micro Bittiger project](https://www.bittiger.io/microproject/jEaqRv4rurDJ6BhNm) provided by Smarking Inc, and it's part of the application for their software engineering position. We will use the given data set to build prediction models and provide an interactive web application for users to observe predicted results, upload actual data, compare the real and predicted data, and check the accuracy.
+
 
 ## Plan
 
@@ -20,18 +21,21 @@ This is a [micro Bittiger project](https://www.bittiger.io/microproject/jEaqRv4r
 | Stage | Start  | End | Goals |
 | ------------- | ------------- | ------------- | ------------- |
 | s | 06/07/16  | 06/13/16  | GitHub-Repo-Team, Proposal Writing, Video Learning, Group Discussion |
-| 1 | 06/14/16  | 06/20/16  | Data Preprocessing, Prediction Model Training, Group Discussion, Best Model Implementation |
-| 2 | 06/21/16  | 06/27/16  | Interactive Web Page Making, Accuracy Improvement  |
-| 3 | 06/28/16  | 07/04/16  | Project Innovation(Analysis, Visulization, Application)  |
-| 4 | 07/05/16  | 07/11/16  | Project Report Writing, Demo Video Making  |
-| e | 07/12/16  | 07/18/16  | Other Improvements  |
+| 1 | 06/14/16  | 06/20/16  | Knowledge Learning (data analysis and machine learning), Data Preprocessing, Prediction Model Training, Group Discussion, Model Selection and Analysis  |
+| 2 | 06/21/16  | 06/27/16  | Accuracy Improvement, Knowledge Learning(web page), Web Page Design, Interactive Web Page Prototyping  |
+| 3 | 06/28/16  | 07/04/16  | Accuracy Improvement, Visualization and Application Idea Generation |
+| 4 | 07/05/16  | 07/11/16  | Web Page Refinement | 
+| e | 07/12/16  | 07/18/16  | Project Report Writing, Demo Video Making |
 
 
 
 ## Resource
 
 - [太阁x直播7 实战Data Science全栈项目](https://www.bittiger.io/classpage/FKdk6888kdkij6Rqh)
+- [Coursera Machine Learning] (https://www.coursera.org/learn/machine-learning)
+- [Interactive Data Visualization] (http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/)
 - [Project Requirements](https://www.bittiger.io/microproject/jEaqRv4rurDJ6BhNm)
+- [Proposal Template](https://github.com/hackjustu/Handbook-GitHub-Projects/blob/master/proposal_template.md)
 
 
 
@@ -39,9 +43,9 @@ This is a [micro Bittiger project](https://www.bittiger.io/microproject/jEaqRv4r
 This project is distributed under the [MIT license](http://choosealicense.com/licenses/mit/).
 
 ## Project Information
-- category: data science, prediction
+- category: data science, machine learning
 - team: Smart
-- description: Predict the parking transaction and visulize the model accuracy.
+- description: Predict the parking transaction and visualize data and the model accuracy.
 - stack: python, r, html, css, javascript, d3.js
 
 
