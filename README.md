@@ -36,7 +36,12 @@ This is a [micro Bittiger project](https://www.bittiger.io/microproject/jEaqRv4r
 - [Interactive Data Visualization] (http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/)
 - [Project Requirements](https://www.bittiger.io/microproject/jEaqRv4rurDJ6BhNm)
 - [Proposal Template](https://github.com/hackjustu/Handbook-GitHub-Projects/blob/master/proposal_template.md)
-
++ Source Code
+   + [HuangFang](https://github.com/fanghuang/Parking-Prediction)
++ D3 & Dimple: Useful Examples
+   + [Data Visualization on Dashboard](http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/)
+   + [Comparison of Multiple Lines](http://dimplejs.org/examples_viewer.html?id=lines_horizontal_stacked)
+   + [Calendar View](http://bl.ocks.org/mbostock/4063318)
 
 
 ## License
@@ -51,7 +56,10 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 
 
 ### Weekly Report
+***
 #####2016/6/7 - 2016/6/13
+
+**Plan**
 
 | # | DDL | Task | Results |
 | ------------- | ------------- | ------------- | ------------- |
@@ -61,12 +69,37 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 | 4 | 06/07/16  | Proposal | Finished simple proposal |
 | 5 | 06/10/16  | Video Learning | Watched the video about how to do full stack data science ananlysis shared by Bittiger. Wrote some basic codes  |
 
+**Do**
+
 | Content | DT |  | Description |
 | ------------- | ------------- | ------------- | ------------- |
 | ToDo | 06/11/16  | Weekly Meeting on Sat. | After learning the video, each member shares opinion on the process of prediction analysis and web building. Make next week schedule. Pains and gains last week. Problems to overcome.  |
 | Prob | 06/10/16  |  | One of our team members is suffering affairs about work, and maybe have no time to paticipate in this project.  |
 
+***
+#####2016/6/14 - 2016/6/20
 
+**Plan**
 
+| # | DDL | Task | Results |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 06/17/16  | Knowledge Learning | Knowledge Learning (data analysis and machine learning), Data Preprocessing, Prediction Model Training  |
+| 2 | 06/18/16 | Team Meeting  | Group Discussion: Model Selection and Analysis |
+| 3 | 06/19/16  | Weekly Report | Update Weekly Progress to Bittiger blog docs, push codes to Repo  |
 
+**Do**
+
+| Content | DT |  | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| Prob | 06/16/16  |  | Not familiar with Python to do visulization and statics analysis, coding speed is slow.  |
+
+**Check List**
+
+- [ ] Knowledge Learning (data analysis and machine learning)
+- [x] Data Preprocessing
+- [ ] Prediction Model Training
+- [ ] Group Discussion
+- [ ] Model Selection and Analysis 
+- [ ] Update Weekly Progress
+- [ ] push codes to Repo
 
