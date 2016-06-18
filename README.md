@@ -74,7 +74,8 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 | Content | DT |  | Description |
 | ------------- | ------------- | ------------- | ------------- |
 | ToDo | 06/11/16  | Weekly Meeting on Sat. | After learning the video, each member shares opinion on the process of prediction analysis and web building. Make next week schedule. Pains and gains last week. Problems to overcome.  |
-| Prob | 06/10/16  |  | One of our team members is suffering affairs about work, and maybe have no time to paticipate in this project.  |
+| **Problems Encountered** | 06/10/16  |  | One of our team members Yuhan finds it hard to keep up our project because of her personal reason in this two weeks. Therefore, our group has only 2 members and the difficulty of finishing the project will be increased.  |
+| **Lessons Learned & Strategies to address Problems** | 06/10/16  |  | During the self-learning, we have a deeper understanding of our project and what to do next. Since we only have 2 persons to work on the project in this two weeks, we need to spend more time on learning and working. |
 
 ***
 #####2016/6/14 - 2016/6/20
@@ -91,7 +92,8 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 
 | Content | DT |  | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Prob | 06/16/16  |  | Not familiar with Python to do visulization and statics analysis, coding speed is slow.  |
+| **Problems Encountered** | 06/16/16  |  | Not familiar with Python to do visulization and statics analysis, coding speed is slow. For Rex, he has little experience in data analysis and he is working as well. Therefore, the learning pace is quite slow. He needs to spend more time to learn and work. |
+| **Lessons Learned & Strategies to address Problems** | 06/18/16  |  | We have started the data analysis process and our group member Alice has updated the code. We will move on model selection to improve our analysis. However, more discussion is needed to improve the learning efficiency and  work distribution.  |
 
 **Check List**
 
