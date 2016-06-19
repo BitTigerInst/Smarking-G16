@@ -100,8 +100,8 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 - [ ] Knowledge Learning (data analysis and machine learning)
 - [x] Data Preprocessing
 - [ ] Prediction Model Training
-- [ ] Group Discussion
+- [x] Group Discussion
 - [ ] Model Selection and Analysis 
-- [ ] Update Weekly Progress
-- [ ] push codes to Repo
+- [x] Update Weekly Progress
+- [x] push codes to Repo
 
