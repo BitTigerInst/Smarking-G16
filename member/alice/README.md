@@ -9,3 +9,4 @@
 #####Step-3: [Model_Training.ipynb](https://github.com/BitTigerInst/Smarking-G16/blob/master/member/alice/Model_Training.ipynb)
 - Process to model training
 - Prepare data frame and feature list to train model
+- Train 1 model: Linear Regression
