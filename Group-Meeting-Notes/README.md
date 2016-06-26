@@ -8,3 +8,6 @@
 
 ####2016/6/18
 [实际分析过程中遇到的问题](https://github.com/BitTigerInst/Smarking-G16/blob/master/Group-Meeting-Notes/16-06-18-Group-Meeting.md)
+
+####2016/6/25
+[可视化，模型训练，调参方法](https://github.com/BitTigerInst/Smarking-G16/blob/master/Group-Meeting-Notes/16-06-25-Group-Meeting.md)
