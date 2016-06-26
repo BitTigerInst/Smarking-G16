@@ -105,3 +105,58 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 - [x] Update Weekly Progress
 - [x] push codes to Repo
 
+
+***
+#####2016/6/21 - 2016/6/27
+
+**Plan**
+
+| # | DDL | Task | Results |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 06/27/16  | Knowledge Learning | Knowledge Learning (data analysis and machine learning) from Coursera |
+| 2 | 06/22/16 | Feature Selection  | Create features list |
+| 3 | 06/23/16 | Models Training  | Train first model to see basic result |
+| 4 | 06/24/16 | Models Training  | Train more models to incresse score |
+| 5 | 06/25/16 | Team Meeting  | Next week to do list & problems met this week |
+| 6 | 06/26/16  | Weekly Report | Update Weekly Progress to Bittiger blog docs, push codes to Repo  |
+
+
+**Do**
+
+| Content | DT |  | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| **Problems Encountered** | 06/21/16  |  | 1. Not familiar with Feature Engineering & Parameters Tuning. 2. Seems a little difficult to learn all algorithms in Sklearn in a short time.  |
+| **Lessons Learned & Strategies to address Problems** | 06/25/16  |  | 1. Firstly, generate a score table to compare, then try SVR和ensembling. 2. cc shares a leaning method.  |
+
+**Check List**
+
+- [x] Knowledge Learning (data analysis and machine learning)
+- [x] Prediction Model Training
+- [x] Group Meeting
+- [ ] Model Selection and Analysis 
+- [x] Update Weekly Progress
+- [x] push codes to Repo
+
+
+***
+#####2016/6/28 - 2016/7/4
+
+**Plan**
+
+| # | DDL | Task | Results |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 06/28/16  | Web & Accuracy | Rex is responsible for 2 visulization graphs. Alice is to create score table, train SVR, and learn ensembling  |
+| 2 | 06/29/16 | Web & Accuracy  | Rex: more visulization graphs. Alice: time series model |
+| 3 | 06/30/16 |   |  |
+| 4 | 07/01/16 |  |  |
+| 5 | 07/02/16 |   |  |
+| 6 | 07/03/16 | Team Meeting  | Next week to do list & problems met this week |
+| 7 | 07/04/16  | Weekly Report | Update Weekly Progress to Bittiger blog docs, push codes to Repo  |
+
+**Check List**
+
+- [ ] Web visulization
+- [ ] Increase Accuracy
+- [ ] Group Meeting
+- [ ] Update Weekly Progress
+- [ ] push codes to Repo
