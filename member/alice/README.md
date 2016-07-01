@@ -12,3 +12,7 @@
 - Prepare data frame and feature list to train model
 - Train 1 model: Linear Regression
 - Train more models: Increase score to 0.9
+
+
+#####Step-4: More Accurate Prediction
+- [Polynomial Regression](https://github.com/BitTigerInst/Smarking-G16/blob/master/member/alice/Model_Training_Polynomial.ipynb)
