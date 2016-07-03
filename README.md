@@ -24,7 +24,7 @@ This is a [micro Bittiger project](https://www.bittiger.io/microproject/jEaqRv4r
 | 1 | 06/14/16  | 06/20/16  | Knowledge Learning (data analysis and machine learning), Data Preprocessing, Prediction Model Training, Group Discussion, Model Selection and Analysis  |
 | 2 | 06/21/16  | 06/27/16  | Accuracy Improvement, Knowledge Learning(web page), Web Page Design, Interactive Web Page Prototyping  |
 | 3 | 06/28/16  | 07/04/16  | Accuracy Improvement, Visualization and Application Idea Generation |
-| 4 | 07/05/16  | 07/11/16  | Web Page Refinement | 
+| 4 | 07/05/16  | 07/11/16  | Web Page Refinement |
 | e | 07/12/16  | 07/18/16  | Project Report Writing, Demo Video Making |
 
 
@@ -101,7 +101,7 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 - [x] Data Preprocessing
 - [ ] Prediction Model Training
 - [x] Group Discussion
-- [ ] Model Selection and Analysis 
+- [ ] Model Selection and Analysis
 - [x] Update Weekly Progress
 - [x] push codes to Repo
 
@@ -133,7 +133,7 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 - [x] Knowledge Learning (data analysis and machine learning)
 - [x] Prediction Model Training
 - [x] Group Meeting
-- [ ] Model Selection and Analysis 
+- [ ] Model Selection and Analysis
 - [x] Update Weekly Progress
 - [x] push codes to Repo
 
@@ -152,6 +152,34 @@ This project is distributed under the [MIT license](http://choosealicense.com/li
 | 5 | 07/02/16 |   |  |
 | 6 | 07/03/16 | Team Meeting  | Next week to do list & problems met this week |
 | 7 | 07/04/16  | Weekly Report | Update Weekly Progress to Bittiger blog docs, push codes to Repo  |
+
+**Do**
+
+| Content | DT |  | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| **Done** | 07/03/16  |  | 1. Combined daily data into weekly data and fitted by polynomial.   2.  Modified by outlier. |
+| **Problems Encountered** | 07/02/16  |  | 1. Project pace is relatively slow. 2. Rex still had trouble finishing his task. 3. The score is still not high enough.  |
+| **Lessons Learned & Strategies to address Problems** | 06/25/16  |  | 1. Need to try more modified method to improve the score. 2. Everyone should show their strength to work on the project.  |
+
+**Check List**
+
+- [ ] Web visulization
+- [x] Increase Accuracy
+- [ ] Group Meeting
+- [x] Update Weekly Progress
+- [x] push codes to Repo
+
+***
+#####2016/7/3 - 2016/7/10
+
+**Plan**
+
+| # | DDL | Task | Results |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | 07/09/16  | Web & Accuracy | Web visulization  |
+| 2 | 07/08/16 | Web & Accuracy  | Improve the accuracy |
+| 3 | 07/10/16 | Team Meeting  | Next week to do list & problems met this week |
+| 7 | 07/11/16  | Weekly Report | Update Weekly Progress to Bittiger blog docs, push codes to Repo  |
 
 **Check List**
 
