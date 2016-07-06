@@ -16,3 +16,4 @@
 
 #####Step-4: More Accurate Prediction
 - [Polynomial Regression](https://github.com/BitTigerInst/Smarking-G16/blob/master/member/alice/Model_Training_Polynomial.ipynb)
+- [Time Series](https://github.com/BitTigerInst/Smarking-G16/blob/master/member/alice/Model_Training_TimeSeries_Weekly.ipynb)
