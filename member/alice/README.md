@@ -21,3 +21,4 @@
 
 #####Step-5: Processing
 - [Weekly Prediction to Daily to Hourly](https://github.com/BitTigerInst/Smarking-G16/blob/master/member/alice/Week_to_Day_to_Hour.ipynb)
+- [Polynomial & Ridge](https://github.com/BitTigerInst/Smarking-G16/blob/master/member/alice/Model_Training_WholeProcess_Raw.ipynb)
